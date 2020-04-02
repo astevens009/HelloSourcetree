@@ -1,0 +1,1 @@
+Sample md file created to learn about using Sourcetree for Git projects
